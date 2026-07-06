@@ -1,0 +1,12 @@
+[submodule "TinyCircuits-Thumby-Code-Editor"]
+	path = TinyCircuits-Thumby-Code-Editor
+	url = https://github.com/TinyCircuits/TinyCircuits-Thumby-Code-Editor.git
+[submodule "TinyCircuits-Thumby-Games"]
+	path = TinyCircuits-Thumby-Games
+	url = https://github.com/TinyCircuits/TinyCircuits-Thumby-Games.git
+[submodule "TinyCircuits-Thumby-Color-Games"]
+	path = TinyCircuits-Thumby-Color-Games
+	url = https://github.com/TinyCircuits/TinyCircuits-Thumby-Color-Games.git
+[submodule "TinyCircuits-Tiny-Game-Engine"]
+	path = TinyCircuits-Tiny-Game-Engine
+	url = https://github.com/TinyCircuits/TinyCircuits-Tiny-Game-Engine.git
