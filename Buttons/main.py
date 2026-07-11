@@ -28,7 +28,12 @@ while True:
             print("A long pressed")
         # 短押し
         if engine_io.A.is_just_short_released:
+            # 振動
+            engine_io.rumble(1.0)
             print("A.short released")
+        if engine_io.B.is_just_short_released:
+            # 振動停止
+            engine_io.rumble(0.0)
         # 2回短押し
         if engine_io.A.is_just_double_released:
             print("A double released")
